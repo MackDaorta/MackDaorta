@@ -7,8 +7,6 @@ Soy un estudiante de Ingenieria de Software apasionado por Python
 ## 🔭 Actualmente estoy trabajando en:
 * django-Cine: Enfocado en crear una web funcional que contara con CRUD para producto, peliculas y anuncios, reservas de asientos por funcion. https://github.com/MackDaorta/django-Cine.git   
 
-* django-Zapateria: Solucionando la gestion manual y los prestamos informales a la Zapateria DADYS. https://github.com/MackDaorta/django-zapateria.git
-
 ## 🌱 Actualmente estoy aprendiendo:
 
 * Python avanzado
