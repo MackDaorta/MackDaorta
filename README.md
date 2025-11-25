@@ -2,21 +2,19 @@
 ## Hey, I'm Mack!
 
 
-Soy un estudiante de Ingenieria de Software apasionado por Python
+Soy un estudiante de Ingenieria de Software apasionado por Python y optimizacion de codigo
 
 ## 🔭 Actualmente estoy trabajando en:
-* django-Cine: Enfocado en crear una web funcional que contara con CRUD para producto, peliculas y anuncios, reservas de asientos por funcion. https://github.com/MackDaorta/django-Cine.git   
+* Cinema-Docker: Enfocado en crear una web funcional que contara con CRUD para producto, peliculas y anuncios asincronica. https://github.com/MackDaorta/Cinema_Docker
 
 ## 🌱 Actualmente estoy aprendiendo:
-
-* Python avanzado
-* Django para desarrollo backend
-* Principios SOLID y Patrones de Diseño
+* Machine Learning
 ## 👯 Busco colaborar en
 * Proyectos de codigo abierto relacionados con Python y Django
 ## 💬 Pregúntame sobre
-* Algoritmos
+* JS
 * Python
+* PHP
 * Basquetball
 
 ## 📫 Cómo contactarme
@@ -27,6 +25,7 @@ Soy un estudiante de Ingenieria de Software apasionado por Python
 ## 🛠️ Tecnologías y Herramientas
 
 ![MackDaorta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MackDaorta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 ## 📊 Estadísticas de GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MackDaorta&theme=tokyonight)](https://git.io/streak-stats)
