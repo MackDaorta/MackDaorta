@@ -4,9 +4,6 @@
 
 Soy un estudiante de Ingenieria de Software apasionado por Python y optimizacion de codigo
 
-## 🔭 Actualmente estoy trabajando en:
-* Cinema-Docker: Enfocado en crear una web funcional que contara con CRUD para producto, peliculas y anuncios asincronica. https://github.com/MackDaorta/Cinema_Docker
-
 ## 🌱 Actualmente estoy aprendiendo:
 * Django
 ## 👯 Busco colaborar en
