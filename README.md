@@ -8,13 +8,13 @@ Soy un estudiante de Ingenieria de Software apasionado por Python y optimizacion
 * Cinema-Docker: Enfocado en crear una web funcional que contara con CRUD para producto, peliculas y anuncios asincronica. https://github.com/MackDaorta/Cinema_Docker
 
 ## 🌱 Actualmente estoy aprendiendo:
-* Machine Learning
+* Django
 ## 👯 Busco colaborar en
 * Proyectos de codigo abierto relacionados con Python y Django
 ## 💬 Pregúntame sobre
-* JS
 * Python
-* PHP
+* Bases de datos
+* Postgree
 * Basquetball
 
 ## 📫 Cómo contactarme
@@ -26,6 +26,3 @@ Soy un estudiante de Ingenieria de Software apasionado por Python y optimizacion
 
 ![MackDaorta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MackDaorta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-## 📊 Estadísticas de GitHub
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MackDaorta&theme=tokyonight)](https://git.io/streak-stats)
